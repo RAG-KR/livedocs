@@ -15,7 +15,7 @@ import Provider from "./Provider";
 
 const fontSans = FontSans({subsets:["latin"],variable:"--font-sans"})
 
-export const metadate: Metadata ={
+export const metadata: Metadata ={
   title: "LiveDocs",
   description: "your go to collaborative edittor"
 }
